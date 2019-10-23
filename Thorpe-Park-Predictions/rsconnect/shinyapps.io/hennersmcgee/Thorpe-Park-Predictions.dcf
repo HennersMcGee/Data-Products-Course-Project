@@ -1,0 +1,12 @@
+name: Thorpe-Park-Predictions
+title: Thorpe-Park-Predictions
+username:
+account: hennersmcgee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1357635
+bundleId: 2529862
+url: https://hennersmcgee.shinyapps.io/Thorpe-Park-Predictions/
+when: 1571846322.73682
+asMultiple: FALSE
+asStatic: FALSE
